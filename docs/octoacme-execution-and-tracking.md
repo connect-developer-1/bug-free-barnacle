@@ -27,11 +27,15 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
 - Use dashboards for key signals (errors, latency, usage)
+- **Data Analysts** build and maintain dashboards to track product success metrics (see [Roles & Personas](./octoacme-roles-and-personas.md#data-analyst))
+- **DevOps Engineers** maintain monitoring and alerting systems for system health (see [Roles & Personas](./octoacme-roles-and-personas.md#devops-engineer))
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
 - Level 2: PM escalates to Product Lead and dependent teams
 - Level 3: Sponsor-level escalation for business-impacting issues
+- **Agile Coaches** help identify and remove organizational impediments (see [Roles & Personas](./octoacme-roles-and-personas.md#agile-coach))
+- For detailed collaboration and escalation scenarios, see [Collaboration Scenarios](./octoacme-collaboration-scenarios.md)
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo

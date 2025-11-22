@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Identification of required specialized roles (UX Designer, Data Analyst, DevOps Engineer, Legal/Compliance Advisor, Agile Coach — see [Roles & Personas](./octoacme-roles-and-personas.md) for guidance)
 
 ## Project One-pager Template
 - Project name:

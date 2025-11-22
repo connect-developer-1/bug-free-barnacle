@@ -14,6 +14,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- **Legal/Compliance Advisor** sign-off for features affecting data privacy or regulatory requirements (see [Roles & Personas](./octoacme-roles-and-personas.md#legalcompliance-advisor))
+- **DevOps Engineer** readiness confirmation for infrastructure and monitoring (see [Roles & Personas](./octoacme-roles-and-personas.md#devops-engineer))
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
@@ -28,6 +30,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
   - Trigger incident response and notify on-call
   - Rollback to last known-good release if necessary
   - Triage root cause and capture action items
+- For detailed incident response workflow, see [Collaboration Scenarios - Production Incident Response](./octoacme-collaboration-scenarios.md#scenario-6-production-incident-response)
+- **DevOps Engineers** manage deployment and rollback procedures (see [Roles & Personas](./octoacme-roles-and-personas.md#devops-engineer))
 
 ## Release Notes Template
 - Release name / number:
