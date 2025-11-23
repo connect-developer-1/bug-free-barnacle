@@ -15,6 +15,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Engage specialized roles as needed (UX Designer for user flows, Data Analyst for metrics framework, Legal/Compliance Advisor for regulatory requirements — see [Roles & Personas](./octoacme-roles-and-personas.md))
 
 ## Backlog Item Template
 - Title:

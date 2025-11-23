@@ -16,6 +16,8 @@ After each sprint, release, or important milestone. Also after incidents.
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- **Agile Coaches** can facilitate retrospectives and guide continuous improvement (see [Roles & Personas](./octoacme-roles-and-personas.md#agile-coach))
+- For retrospective collaboration patterns, see [Collaboration Scenarios](./octoacme-collaboration-scenarios.md#scenario-4-agile-process-improvement)
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines

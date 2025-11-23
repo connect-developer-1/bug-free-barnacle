@@ -14,11 +14,21 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM)**: coordinates delivery, schedules, risk, communications.
+- **Product Manager (PdM)**: defines outcomes, prioritizes backlog, and measures success.
+- **Developers**: implement features, collaborate on design and testability.
+- **QA Engineers**: validate quality and acceptance criteria.
+- **Stakeholders**: provide inputs and approvals.
+
+## Extended Team Roles
+When applicable to the project scope, additional specialized roles may be engaged:
+- **UX Designer**: creates user-centered experiences and validates usability (see [Roles & Personas](./octoacme-roles-and-personas.md#ux-designer)).
+- **Data Analyst**: provides insights through analytics and measures product success (see [Roles & Personas](./octoacme-roles-and-personas.md#data-analyst)).
+- **DevOps Engineer**: maintains infrastructure, CI/CD, and monitoring (see [Roles & Personas](./octoacme-roles-and-personas.md#devops-engineer)).
+- **Agile Coach**: guides teams in agile practices and continuous improvement (see [Roles & Personas](./octoacme-roles-and-personas.md#agile-coach)).
+- **Legal/Compliance Advisor**: ensures regulatory and legal compliance (see [Roles & Personas](./octoacme-roles-and-personas.md#legalcompliance-advisor)).
+
+For detailed responsibilities, goals, and interaction patterns for all roles, see [OctoAcme Roles and Personas](./octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
