@@ -99,7 +99,7 @@ The documentation is specifically designed to work with GitHub Copilot Spaces:
 - Role-specific documents serve as persona prompts for Copilot
 - Process documents enable AI to provide tailored suggestions based on project phase
 - Structure enables AI-powered navigation of organizational knowledge
-- Teams can add these documents to a `.copilot/` directory in their own repositories to provide context-aware AI guidance
+- Teams can organize these documents in their own repositories (such as in a `.copilot/` directory) to provide context-aware AI guidance, following their preferred organizational patterns
 
 ## Use Cases
 
