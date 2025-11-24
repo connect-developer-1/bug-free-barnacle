@@ -91,13 +91,12 @@ The repository serves as part of a GitHub Skills exercise, as evidenced by:
 - **Congratulatory README**: The main README.md shows this is a completed exercise with sharing options
 - **Exercise Links**: References back to GitHub Skills and the exercise
 - **Issue Templates**: Contains template for adding/updating content to process docs
-- **Branch Structure**: Uses branch naming convention `copilot/explain-repository-functionality`
 
 ### 3. GitHub Copilot Integration
 
 The documentation is specifically designed to work with GitHub Copilot Spaces:
 
-- Documents can be added to `.copilot/` directory for context-aware AI guidance
+- Documents can be added to a `.copilot/` directory (not currently present) for context-aware AI guidance
 - Role-specific documents serve as persona prompts for Copilot
 - Process documents enable AI to provide tailored suggestions based on project phase
 - Structure enables AI-powered navigation of organizational knowledge
