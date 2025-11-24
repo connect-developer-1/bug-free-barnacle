@@ -96,10 +96,10 @@ The repository serves as part of a GitHub Skills exercise, as evidenced by:
 
 The documentation is specifically designed to work with GitHub Copilot Spaces:
 
-- Documents can be added to a `.copilot/` directory to provide context-aware AI guidance
 - Role-specific documents serve as persona prompts for Copilot
 - Process documents enable AI to provide tailored suggestions based on project phase
 - Structure enables AI-powered navigation of organizational knowledge
+- Teams can add these documents to a `.copilot/` directory in their own repositories to provide context-aware AI guidance
 
 ## Use Cases
 
@@ -120,6 +120,7 @@ This repository demonstrates several practical use cases:
 ```
 /
 ├── README.md                          # Congratulatory completion message
+├── REPOSITORY_EXPLANATION.md          # This document - comprehensive repository overview
 ├── LICENSE                            # MIT License
 ├── docs/                              # All project management documentation
 │   ├── README.md                      # Documentation hub and overview
